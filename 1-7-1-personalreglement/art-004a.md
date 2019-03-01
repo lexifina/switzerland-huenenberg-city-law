@@ -1,0 +1,10 @@
+# Art. 4a Eignungsprüfungen
+1 Die Anstellung und Weiterbeschäftigung kann vom Ergebnis einer registerbasierten, einer medizinischen oder von einer anderen Eignungsprüfung abhängig gemacht werden. Vorbehalten bleiben abweichende spezialgesetzliche Bestimmungen.
+2 Auf Verlangen der für die Anstellung zuständigen Stelle haben sich Bewerberinnen und Bewerber in der engsten Auswahl vor bzw. Mitarbeiterinnen und Mitarbeiter während der Anstellung einer registerbasierten Eignungsprüfung zu unterziehen, wenn diese künftig bzw. aktuell
+a) bei den Übertretungsstrafbehörden tätig sind;
+b) in ihrer Funktion qualifizierte Zeichnungsberechtigung für Ausgaben oder zur Eingehung von Verbindlichkeiten und weitgehende Verfügungsbefugnis betreffend Festlegung von Einnahmen haben oder grosse Vermögenswerte und Güter von hohem Wert verwalten;
+c) eine höhere leitende Tätigkeit ausüben, d.h. auf Grund ihrer Stellung und Verantwortung über weitreichende Entscheidbefugnisse verfügen oder Entscheide von grosser Tragweite massgeblich beeinflussen und dadurch auf die Struktur, den Geschäftsgang und die Entwicklung einer Abteilung oder der Schule einen nachhaltigen Einfluss nehmen können, namentlich der Gemeindeschreiber und die Abteilungsleitenden sowie Mitglieder der Schulleitung;
+d) in ihrer Funktion über Zugriff auf Informatikmittel von Gemeinde und/oder Schule verfügen;
+e) in ihrer Funktion Kontakt mit besonders schutzbedürftigen Personen (Minderjährige, Betagte, Kranke, Menschen mit Behinderung) haben.
+3 Auf Verlangen der für die Anstellung zuständigen Stelle haben sich Bewerberinnen und Bewerber in der engsten Auswahl bzw. Mitarbeiterinnen und Mitarbeiter, deren Funktion einen bestimmten Gesundheitszustand bzw. bestimmte Fähigkeiten oder Eigenschaften voraussetzt, vor oder während der Anstellung einer medizinischen und/oder einer anderen Eignungsprüfung zu unterziehen.
+4 Die für die Anstellung zuständige Stelle entscheidet während der Anstellung aufgrund des vorliegenden Ergebnisses einer Eignungsprüfung und unter Berücksichtigung der für das Kündigungsverfahren geltenden Bestimmungen über die Fortsetzung oder Beendigung des Arbeitsverhältnisses.
