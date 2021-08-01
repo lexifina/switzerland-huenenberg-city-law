@@ -1,13 +1,11 @@
-## 1 Einleitung
-## 2 Schulordnung
-### 2.1 Zweck und Geltungsbereich
-### 2.2 Grundlagen
-#### 2.2.1 Schulleitung
-#### 2.2.2 Schülerinnen und Schüler
-#### 2.2.3 Erziehungsberechtigte
-#### 2.2.4 Lehrpersonen
-#### 2.2.5 Hausdienst
-#### 2.2.6 Ausserschulische Benutzerinnen und Benutzer
-## 3 Disziplinarordnung für Schülerinnen und Schüler
-## 4 Rechtspflege
-## 5 Schlussbestimmungen
+## 1. Schulordnung
+### 1.1. Einleitende Bestimmungen
+### 1.2. Zusammenarbeit
+### 1.3. Schülerinnen und Schüler
+### 1.4. Eltern
+### 1.5. Lehrpersonen
+### 1.6. Schulsozialarbeit
+### 1.7. Hausdienst
+### 1.8. Ausserschulische Benutzerinnen und Benutzer
+## 2. Disziplinarordnung für Schülerinnen und Schüler
+## 3. Rechtspflege

@@ -1,0 +1,2 @@
+# Art. 28b Pflichten
+1 Bei Verstössen einzelner Schülerinnen und Schüler gegen die Schul- und/oder die Schulhausordnung reagiert der Hausdienst der Situation angemessen und benachrichtigt die zuständige Klassenlehrperson und/oder die Schulleitung.
