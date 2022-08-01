@@ -1,5 +1,9 @@
 ## 1. Allgemeines
-## 2. Organisation
-## 3. Unterricht für Kinder und Jugendliche
-## 4. Unterricht für Erwachsene
+## 1a. Organisation
+## 1b. Administration
+## 2. …
+## 1c. Unterricht, Fächerangebot
+## 3. …
+## 4. …
 ## 5. Finanzielles
+## 6. Schlussbestimmungen
