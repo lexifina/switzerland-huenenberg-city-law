@@ -1,4 +1,5 @@
 ## 1. Allgemeines
-## 2. Unterricht für Kinder und Jugendliche
-## 3. Erwachsenenunterricht
-## 4. Musiklehrpersonen
+## 2. Unterricht für Kinder und Jugendliche sowie Erwachsene
+## 3. …
+## 4. …
+## 2a. Musiklehrpersonen
