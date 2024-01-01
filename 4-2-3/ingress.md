@@ -1,3 +1,5 @@
 # Richtlinien für Schneesportlager der Schulen Hünenberg
 Vom 07.09.2021
-Diese Richtlinie wurde von der Schulkommission verabschiedet und vom Gemeinderat an seiner Sitzung vom 7. September 2021 genehmigt. Sie ersetzt die Richtlinie vom 1. Januar 2017 und tritt per 1. Januar 2022 in Kraft.
+Der Gemeinderat,
+gestützt auf § 84 Absatz 1 Gemeindegesetz vom 4. September 1980 und § 19 Abs. 3 des Schulgesetzes vom 27. September 1990,
+beschliesst:
