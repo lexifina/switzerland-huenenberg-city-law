@@ -1,0 +1,6 @@
+# Art. 24bis Betreuungsurlaub
+1 Hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf einen Betreuungsurlaub nach Art. 16N-16s EOG, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
+2 Der Betreuungsurlaub ist während einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+3 Sind beide Eltern Arbeitnehmende, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Der Urlaub kann am Stück oder tageweise bezogen werden. Der Anspruch auf Betreuungsentschädigung endet vorzeitig, wenn die Voraussetzungen nicht mehr erfüllt sind. Er endet jedoch nicht vorzeitig, wenn das Kind während der Rahmenfrist volljährig wird.
+4 Solange Anspruch auf Betreuungsurlaub besteht, darf der Arbeitgeber, nach Ablauf der Probezeit, das Arbeitsverhältnis nicht kündigen, längstens jedoch während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
+5 Fällt die Sperrfrist in die Kündigungsfrist, unterbricht sie die Kündigungsfrist und verlängert das Arbeitsverhältnis.
