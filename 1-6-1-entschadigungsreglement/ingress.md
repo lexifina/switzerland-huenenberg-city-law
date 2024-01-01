@@ -2,5 +2,5 @@
 (Entschädigungsreglement)
 Vom 23.05.1995
 Die Gemeindeversammlung,
-gestützt auf § 69 Ziff. 2 des Gemeindegesetzes,
+gestützt auf § 69 Ziff. 2 des Gesetzes über die Organisation und Verwaltung der Gemeinden vom 4. September 1980,
 beschliesst:
