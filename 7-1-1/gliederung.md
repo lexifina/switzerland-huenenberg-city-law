@@ -19,3 +19,4 @@
 ### A1-4 Verfahrensvorschriften und Schlussbestimmungen
 ## A2 Anhang 2: Rechtsgültige Bebauungspläne
 ## A3 Anhang 3: Erläuterungsskizzen
+## A5 Anhang 5: Bereichsplan
