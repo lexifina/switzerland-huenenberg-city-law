@@ -4,6 +4,6 @@
 ## 4. Reservationen
 ## 5. Benützungsvorschriften
 ## 6. Sicherheit
-## 7. Restauration
+## 7. Restauration / Catering
 ## 8. Gebühren
 ## 9. Schlussbestimmungen
