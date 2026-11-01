@@ -1,0 +1,53 @@
+# Benützungsreglement Zentrum «Heinrich von Hünenberg» und Dorfplatz
+
+SRS 6.6-2 · 2 versions, from 2014-01-01 (latest in force: 2026-01-01) · <https://huenenberg.tlex.ch/app/de/texts_of_law/6.6-2>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 1 | 2026-01-01 |
+| Art. 4 | [art-004.md](art-004.md) | 1 | 2026-01-01 |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Art. 9 | [art-009.md](art-009.md) | 1 | 2026-01-01 |
+| Art. 10 | [art-010.md](art-010.md) | 1 | 2026-01-01 |
+| Art. 11 | [art-011.md](art-011.md) | 1 | 2026-01-01 |
+| Art. 12 | [art-012.md](art-012.md) | 0 |  |
+| Art. 13 | [art-013.md](art-013.md) | 1 | 2026-01-01 |
+| Art. 13.1 | [art-013-001.md](art-013-001.md) | 1 | 2026-01-01 |
+| Art. 13.2 | [art-013-002.md](art-013-002.md) | 1 | 2026-01-01 |
+| Art. 13.3 | [art-013-003.md](art-013-003.md) | 1 | 2026-01-01 |
+| Art. 13.4 | [art-013-004.md](art-013-004.md) | 1 | 2026-01-01 |
+| Art. 13.5 | [art-013-005.md](art-013-005.md) | 1 | 2026-01-01 |
+| Art. 14 | [art-014.md](art-014.md) | 1 | 2026-01-01 |
+| Art. 16.1 | [art-016-001.md](art-016-001.md) | 0 |  |
+| Art. 17 | [art-017.md](art-017.md) | 1 | 2026-01-01 |
+| Art. 18 | [art-018.md](art-018.md) | 1 | 2026-01-01 |
+| Art. 24 | [art-024.md](art-024.md) | 1 | 2026-01-01 |
+| Art. 25 | [art-025.md](art-025.md) | 0 |  |
+| Art. 26 | [art-026.md](art-026.md) | 0 |  |
+| Art. 26.1 | [art-026-001.md](art-026-001.md) | 0 |  |
+| Art. 27 | [art-027.md](art-027.md) | 0 |  |
+| Art. 28 | [art-028.md](art-028.md) | 1 | 2026-01-01 |
+| Art. 29 | [art-029.md](art-029.md) | 0 |  |
+| Art. 30 | [art-030.md](art-030.md) | 0 |  |
+| Art. 30.1 | [art-030-001.md](art-030-001.md) | 0 |  |
+| Art. 32.3 | [art-032-003.md](art-032-003.md) | 1 | 2026-01-01 |
+| Art. 32.4 | [art-032-004.md](art-032-004.md) | 1 | 2026-01-01 |
+| Art. 32.5 | [art-032-005.md](art-032-005.md) | 1 | 2026-01-01 |
+| Art. 33 | [art-033.md](art-033.md) | 1 | 2026-01-01 |
+| Art. 36 | [art-036.md](art-036.md) | 0 |  |
+| Art. 37 | [art-037.md](art-037.md) | 0 |  |
+| Art. 37.1 | [art-037-001.md](art-037-001.md) | 0 |  |
+| Art. 38 | [art-038.md](art-038.md) | 0 |  |
+| Art. 39 | [art-039.md](art-039.md) | 0 |  |
+| Art. 40 | [art-040.md](art-040.md) | 0 |  |
+| Art. 15–16 | [art-1516.md](art-1516.md) | 1 | 2026-01-01 |
+| Art. 19–23 | [art-1923.md](art-1923.md) | 1 | 2026-01-01 |
+| Art. 31–32.2 | [art-3132-002.md](art-3132-002.md) | 1 | 2026-01-01 |
+| Art. 34–35 | [art-3435.md](art-3435.md) | 1 | 2026-01-01 |
+| Gliederung | [gliederung.md](gliederung.md) | 1 | 2026-01-01 |
+| Titel und Ingress | [ingress.md](ingress.md) | 0 |  |

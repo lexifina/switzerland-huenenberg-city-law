@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-huenenberg",
+  "code": "CH-ZG-HUENENBERG",
+  "name": "Hünenberg (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-huenenberg-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (49 acts, 85 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

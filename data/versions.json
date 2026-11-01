@@ -1,0 +1,907 @@
+{
+ "country": "CH-ZG-HUENENBERG",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 36,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.1-1/versions/193",
+     "sha256": "0da3013a1a689493b4771ef9de6c41b9707da6f3a908ffd3f0b80eeb860775f6"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 36,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "019ff10dc3bc730de307e677114db9b95142d536fd890d4514c4499baa623df1"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Benutzungsordnung Archiv für verwaltungsexterne Benutzerinnen und Benutzer",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 11,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "fde0255932d89408ab353c8d11bc179e4c7fe3f108a333227dc91ac251dde9f2"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-entschadigungsreglement",
+   "short": "Entschädigungsreglement",
+   "title": "Reglement über die Entschädigung von Behördenmitgliedern und gemeindlichen Funktionärinnen und Funktionären",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 14,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-1/versions/220",
+     "sha256": "93599dab6f7ed4c95d2aff25c71ee6f85980e8de531a0785fcfc1ec016ae95b4"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-1/versions/276",
+     "sha256": "f74eb9806b945b9fc9834ab040507d57f741691a27c660bcf58092bcbd746c95"
+    },
+    {
+     "from": "2024-01-02",
+     "units": 14,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-1/versions/293",
+     "sha256": "09c9feaec193cf7244a3937597ba9005db9f6164480292dbd33d995355470c61"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 14,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "1046e62698b4872d2475ee04248767f423bf5143803ed459643379c748dc251c"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Reglement über die Bestellung von Kommissionen und Arbeitsgruppen",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "units": 13,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "5a056aeee95f8c9e3f7ff766120769251ea1072b21c96e7e9337cd1b178ab1ec"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Richtlinien für die Beanspruchung des Pensenpools des Gemeinderates",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 4,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-3/versions/262",
+     "sha256": "08b6c8dc630a606bf01b2627aaf25f6d1d655bccf5470438db877733fab923d5"
+    },
+    {
+     "from": "2022-12-06",
+     "units": 4,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "c1a6c986b1daf18eb2e757e3d95a27fce4746790f119c394ad933bd44c350af4"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Sitzungsordnung des Gemeinderates",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2018-06-01",
+     "units": 16,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-4/versions/151",
+     "sha256": "63b7d834b358db644a0560cac8243bc6751734b863bc2994be40abe23db312e7"
+    },
+    {
+     "from": "2022-11-02",
+     "units": 18,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-4/versions/255",
+     "sha256": "adf7fb0f4c9d4be508015ad685f53a36babd4ba9accffc0db58bb15d5b70249c"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 18,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "5a875ee429930a8cd58f3c628a56befc11ff9f0d67e082bcafebf99c7c57ae9b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-personalreglement",
+   "short": "Personalreglement",
+   "title": "Reglement über das Arbeitsverhältnis des Gemeindepersonals",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 84,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-1/versions/188",
+     "sha256": "8cd0ba1b616057b12547bd81c0bcc05627b2b9f04c17318404c99560a04fec19"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 86,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "345a8d50d74974860489f4fcf9c09400a1d6b0ed1c1a8656bc4166f72a491324"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2",
+   "short": "SRS 1.7-2",
+   "title": "Geschäftsordnung Geschäftsleitung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.7-2",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 17,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-2/versions/205",
+     "sha256": "5306cc07a033e464d03c1ca69bbc8ab90c1014d723c87bfaf646338fe7025894"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 17,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-2",
+     "sha256": "9f02fafbb96525214e837635aaa2837befbf5a340c024dd02988ee01aa693c39"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-3",
+   "short": "SRS 1.7-3",
+   "title": "Entschädigungsverordnung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.7-3",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3/versions/190",
+     "sha256": "49dd172e560b9553f39117b88bb93272179e6a5badbc8c77297b31fa8a3335f9"
+    },
+    {
+     "from": "2022-12-06",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3/versions/263",
+     "sha256": "913fd87c84b362f43ebf1c9fe09848fdfce505f128a51fdaba2e495e10e32222"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3/versions/274",
+     "sha256": "250834b406e33495667928aece6bc8cdf03975795f4fa47708e8eb92a91bacd9"
+    },
+    {
+     "from": "2024-01-02",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3/versions/296",
+     "sha256": "5f17435e7821f51c93612806b125cd5fe28b95adbb90070f8fb373867876d1f2"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3/versions/320",
+     "sha256": "31f8ead648807888e9909aeaa630f49af3e339db8e3c7caf11a101362f1c9600"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3/versions/335",
+     "sha256": "cedd8c468466ff4c4e9594874ce6ae00cc3c89de412a734c418d981559a41ddb"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-3",
+     "sha256": "a9c9ecbf999c3d797e4fb5cfd7382265b29fb06d69d0261457dab53049acf715"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-4",
+   "short": "SRS 1.7-4",
+   "title": "Arbeitszeitverordnung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/1.7-4",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 30,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-4/versions/209",
+     "sha256": "ee9fa9aa7535fa8826227f42dd2ca3e7cc624f2a90e9873c6b0418701d78788a"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 32,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/1.7-4",
+     "sha256": "1f6241539d0e27d0b2fe022066d6ceea01f78ddee7a5ed808f12d46bef2df461"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Verordnung über die Gebühren im Beurkundungswesen",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "058a25fb7542cd09c45f455a21973e8a06dc2aaef2d7ad9d99350a17b6f0d862"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-kinderbetreuungsreglement",
+   "short": "Kinderbetreuungsreglement",
+   "title": "Reglement zur Regelung der Kinderbetreuung auf dem Gemeindegebiet",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 7,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "220f3000c75bbdc2d9f880ba2d844d57fb7784ef402a40e31c4a057673fbd38f"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1",
+   "short": "SRS 4.1-1.1",
+   "title": "Verordnung betreffend Finanzierung familienergänzende Kinderbetreuung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 49,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/215",
+     "sha256": "8b12df7f8beb3ff9870c66df432dcc5eb6fcd41c3d256228579b4790824c4e6e"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 39,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/321",
+     "sha256": "1749c05e00299454434cb98251151f8e53007f087bd114848a88a4a3c7bf67a7"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 38,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "a57772bbd2b5153e5085ec9518181e831535500fbd641708086227bb9adcc713"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-2",
+   "short": "SRS 4.1-1.2",
+   "title": "Verordnung betreffend Betreuung Schulkinder",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.1-1.2",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 24,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.1-1.2/versions/318",
+     "sha256": "4dc47800867e979bf351962f6c946c8f366eb1b4dc871267378fbbb56f70df51"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 23,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.1-1.2",
+     "sha256": "7e8a891701877cb315a8e0c843c592286a74bf085c825e080854ced31f7584b6"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Schul- und Disziplinarordnung der Schulen Hünenberg",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2009-08-01",
+     "units": 33,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-1/versions/105",
+     "sha256": "87ac784fd2a1bba0efb52dcd401257b864eb751c3401074abd9999d3145ba886"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 42,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "b06abd84e6be19e05a94189312df9d8e18e6e4e92dfe1bbea4f526b4fe52db41"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Richtlinien für Klassenlager der Schulen Hünenberg",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 11,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "385448509ee2defcbe6f3c9a2ba9b3dc2660bb41a3d6aa284d2b14c770c86af2"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Richtlinien für Schneesportlager der Schulen Hünenberg",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-3/versions/235",
+     "sha256": "7193ab37925f604626fafcad662bc32ababd7c0fb9150965b5d74904695c1206"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "1b599fe1d451e819a6df2332a5c9ff0356fc4963a7bd60b16f134da42bfb6030"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-4",
+   "short": "SRS 4.2-4",
+   "title": "Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.2-4",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 12,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-4/versions/234",
+     "sha256": "5c833cc0b7fdbc0dbbb3fb5381022bfce6e14e720e6905aadad9d34f2ea2aea0"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 10,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-4",
+     "sha256": "aed6c28b8e849c7434200cf7cc1f37c592d39d98467b4e58ac30e210097b2b99"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-4-1",
+   "short": "SRS 4.2-4.1",
+   "title": "Verordnung zum Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.2-4.1",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 7,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.2-4.1",
+     "sha256": "025e861f7103b04dcf11cb5ee2260ec3ac3a5c6665047d2682b06f89b97ff137"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Reglement der Musikschule Hünenberg",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2004-08-01",
+     "units": 24,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1/versions/229",
+     "sha256": "dd0f99366b82117ac40e25635aac3541985291b813e9b5db202aeed2766e714d"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 24,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "6e13813c16c096802b85898cfaf885cd8f669c4db93dc1fbb7372806ffe2d25b"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Verordnung Musikschule",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2004-08-01",
+     "units": 20,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1.1/versions/237",
+     "sha256": "409abfc663571f8dfe034fb40816c8c099a3cb00266fb269e25d7cf91392779a"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 20,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "6b495fe2fd0d678dda7365c308ef3341d3c7f33b367c793b60469823f392da68"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-2",
+   "short": "SRS 4.3-1.2",
+   "title": "Tarifordnung der Musikschule",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.3-1.2",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 6,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1.2/versions/240",
+     "sha256": "088b2e20d935c0ccfee667955027bd681c3b8da63f35fb7614df96e8809441b4"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 6,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1.2/versions/309",
+     "sha256": "1aee5dba40dac325306cc7c6d9fd0634df712e618728be5308b0977cfcd2c6f4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-1.2",
+     "sha256": "b2d94fb95f1f49a8052ff00f89b522dc072fef576dd158812475aee3f3d9beef"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-2",
+   "short": "SRS 4.3-2",
+   "title": "Richtlinien Musiklager",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/4.3-2",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 17,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/4.3-2",
+     "sha256": "a2ea49e026a694c6b52258d4726f737af49745b555e38032edf10c314a2c0dec"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Feuerwehrreglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 14,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "bd284442ad8f1ea46dd17b0abcaf1c1597be755bfa96f521d52599c208f57966"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebührenordnung Festmaterial",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "units": 12,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.4-1/versions/261",
+     "sha256": "dc640668322ed6b0920705f78a41f1a5779cd9629781ad9267420df32bf47a9c"
+    },
+    {
+     "from": "2026-06-07",
+     "units": 12,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "77e4a1bbd60dccace525a5e98688740418f965b95a033e06f1fbed9c55f1ea2b"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-1",
+   "short": "SRS 6.5-1",
+   "title": "Verordnung über die Gewährung von Beiträgen",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.5-1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 10,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.5-1",
+     "sha256": "1631ffb65db9dc10b892bbee7c1dd22ee26ec304ef82f89b855dd0f833a6a460"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-2",
+   "short": "SRS 6.5-2",
+   "title": "Richtlinien über die gemeindlichen Ehrungen",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.5-2",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 12,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.5-2",
+     "sha256": "f7d1f0adaea4f0e8c878d70e553abbf2b33c4bf22453da46a44b7ddc421ebfc2"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-3",
+   "short": "SRS 6.5-3",
+   "title": "Richtlinien für den Ankauf von Kunstwerken",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.5-3",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 8,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.5-3",
+     "sha256": "bf8e8868f4398aa705912e6e68b112d64c6230e8301f3533662a958054edabbd"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-benutzungsverordnung-vbo",
+   "short": "Benutzungsverordnung, VBO",
+   "title": "Verordnung über die Benutzung von öffentlichen Räumen, Anlagen und Plätzen der Einwohnergemeinde Hünenberg",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 32,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-1/versions/214",
+     "sha256": "cf688d0b494942119d4d76fbf802f12f64d9f8aa7495bc0e3781d782b6e17b4b"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 33,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "7d2cfb6907759b7ad3a500079847e05b035024280c801767f92c9f9badc37311"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Gebührenordnung von öffentlichen Räumen, Anlagen und Plätzen",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 19,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-1.1/versions/212",
+     "sha256": "917a7b8e6c713bf2951b9f731d92f4eba9d08c3bf3a8c168cf2797b5c62947c5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 19,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "83434135a53ebbea5b05b4d0afc7c60cc08ff5a3c2e6dd5b960d3e21608fec38"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Benützungsreglement Zentrum «Heinrich von Hünenberg» und Dorfplatz",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 49,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-2/versions/198",
+     "sha256": "6af55e0f90e885903a2deb2e96886cba77d34b539406576ff2d560c52b55832f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 47,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "ed6b28d84a82f60779fed172b76b7fbc3cbc8b1221a978f1ecdce9288cd2c106"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Betriebsreglement Hundeausbildungsanlage Böschhof «Hundeweid»",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2014-07-08",
+     "units": 24,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "b38f625739b912ef75a962ef220898388c9b0bd39743cd57f46b996bf76e8b4a"
+    }
+   ]
+  },
+  {
+   "slug": "6-9-1-vmr",
+   "short": "VMR",
+   "title": "Vermietungsrichtlinien",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/6.9-1",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/6.9-1",
+     "sha256": "beb5d77b3cf9a300864cdd4a0ad8cfc8ef23ae0758fa4e4f9ff904aed4398441"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bauordnung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 66,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.1-1/versions/305",
+     "sha256": "cf99a993d153cd7505444305184602cbb7f27f45e691d1481036776074d4d16c"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 67,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.1-1/versions/306",
+     "sha256": "96dbd5e3489e32717c64b06cd0bf36f2a822a5eadb75d6364fc1e8e156d19cda"
+    },
+    {
+     "from": "2025-01-07",
+     "units": 70,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "63d0dbe7e0d6b8edad91db1e7770df3b4ea9a08156b9008bde5c640a053cb2db"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-1",
+   "short": "SRS 7.1-1.1",
+   "title": "Gebührenordnung zur Bauordnung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.1-1.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.1-1.1",
+     "sha256": "5273d4a6b5998fe43d8046b83ff34c4a0dd7fd210ba125c0d37db8e009b24d77"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Reklamereglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "0f3a2331025ec8b9fed95e06e9b227170db397462df0ca4e078d946704bf36ea"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Reglement über die Lärmbekämpfung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "1972-09-11",
+     "units": 14,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "70bdabe796726abde3836bcae0e40164f968f37b3b2252ed57ed73c959a76ecd"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Umwelt- und Energiereglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "b94aa130a613119cfe3b04aeff23d87fe2bfd73290010e38ed4efa1d25c36a39"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-3",
+   "short": "SRS 7.3-3",
+   "title": "Umwelt- und Energieverordnung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.3-3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.3-3",
+     "sha256": "06cb8507fd5dd31a613492a48f53b16d718848557dc2cf9ff8475f03790cf049"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2",
+   "short": "SRS 7.4-2",
+   "title": "Abwasserreglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.4-2",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 27,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.4-2",
+     "sha256": "f3bac6f11873ec1c4b04dc1dc074797ba6bc5641505df6c13caee122c5c35f8b"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2-1",
+   "short": "SRS 7.4-2.1",
+   "title": "Verordnung zum Abwasserreglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.4-2.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.4-2.1/versions/254",
+     "sha256": "6679a8834ef25094458f1a91d54afb0c4ce958c1c821378fd03d13d942a92731"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 6,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.4-2.1",
+     "sha256": "d6fa4695fce358c8e65aa15fb0c0147674796e83f02de57cff54e463c9a19367"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Strassenreglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 37,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "cab30ccdc59009afad4a8a34234e3e64de9717c84c80fc5cc57fd77e0412e760"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Gebührenordnung für die Bewirtschaftung der öffentlichen Parkplätze in der Gemeinde Hünenberg",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 3,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "361abb04479d443fe1b5a8ae74dcdc69a1e9983d0f582a4712b5f3fa970df1da"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2",
+   "short": "SRS 7.7-2",
+   "title": "Betriebsreglement Bootsstationierungsanlage",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 21,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.7-2/versions/327",
+     "sha256": "d7ce0af50901abcef0bf4b2ecc5d58d4a0fcde785194853410e6093acf1f777c"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 20,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.7-2/versions/334",
+     "sha256": "fc13419611f3f69cca7b63c86ae6a273aa24351d4b03e4d6eeb6a65302e44f46"
+    },
+    {
+     "from": "2026-10-20",
+     "units": 20,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "8e02cf71e26798eae7205f741faa17f32a6a80fb86c610d2e240a07976fb0497"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3",
+   "short": "SRS 7.7-3",
+   "title": "Verordnung über die temporäre politische Aussenwerbung",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/7.7-3",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 9,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/7.7-3",
+     "sha256": "aab56215908225cd0d2aaee254ab244cbf79125696138ed0471a96adde8c2a84"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 22,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "10cb505e4d5fd5914b27803fc0c1fe9351e457b6a8edc4d7105c4b7d51ab71cc"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Vollziehungsverordnung zum Bestattungs- und Friedhofreglement",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 13,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/8.2-1.1/versions/251",
+     "sha256": "c602b9df941a014ddfd77cdfd31acabc78945c8f46e4adf3c26ee76fb40419d1"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 13,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "866971fe9851781e4e150b8da78675a22b42b7aee6fb5d39db645d890d030318"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1-hundereglement",
+   "short": "Hundereglement",
+   "title": "Reglement über das Halten von Hunden und die Erhebung der Hundesteuer",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 13,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "0804e9408f47f0c84ea1360c8778fe341d99dbb5f93ad96cd5b46b5e1ff7b663"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Verordnung betreffend Erhebung einer Beherbergungsabgabe",
+   "url": "https://huenenberg.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 10,
+     "source_url": "https://huenenberg.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "526a4320c9b33fe9dabaff640c8be855a702492350ae91d325f207d44d356aac"
+    }
+   ]
+  }
+ ]
+}
