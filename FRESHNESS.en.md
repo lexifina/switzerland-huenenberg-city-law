@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Huenenberg: systematic collection (huenenberg.tlex.ch) · `switzerland/zug/huenenberg/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 12:44 UTC**.
-- Acts held here: 49; current at the source: 49; changed at the source since the version held here: 1; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 08:20 UTC**.
+- Acts held here: 49; current at the source: 49; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 7 of the 49 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 1 (held here, no longer at the source: 1); with no reason: 0.
+- Not published: 2 (held here, no longer at the source: 1, in force later: 1); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).

@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Huenenberg: Systematische Sammlung (huenenberg.tlex.ch) · `switzerland/zug/huenenberg/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-24 12:44 UTC**.
-- Vorschriften hier: 49; aktuell gegenüber der Quelle: 49; an der Quelle geändert seit der Fassung hier: 1; nicht mehr an der Quelle: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:20 UTC**.
+- Vorschriften hier: 49; aktuell gegenüber der Quelle: 49; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 7 der 49 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 1 (hier vorhanden, an der Quelle nicht mehr: 1); ohne Grund: 0.
+- Nicht veröffentlicht: 2 (hier vorhanden, an der Quelle nicht mehr: 1, tritt später in Kraft: 1); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

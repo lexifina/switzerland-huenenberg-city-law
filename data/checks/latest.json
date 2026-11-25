@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:44:43Z",
+ "generated": "2026-11-25T08:27:21Z",
  "latest": {
   "lexwork-huenenberg-city|switzerland/zug/huenenberg/acts": {
    "attempt": 1,
@@ -19,37 +19,35 @@
     "held": 49,
     "not_at_source": 1,
     "out_of_scope": 13,
-    "pending": 1,
+    "pending": 0,
     "repo": 49,
-    "source_in_scope": 50
+    "source_in_scope": 49
    },
-   "check_id": "ch-lexwork-huenenberg-city-20261124T124357Z",
+   "check_id": "ch-lexwork-huenenberg-city-20261125T081958Z",
    "commits": null,
    "corpus": "switzerland/zug/huenenberg/acts",
    "error": null,
-   "finished": "2026-11-24T12:44:42Z",
+   "finished": "2026-11-25T08:20:30Z",
    "flags": [],
-   "gap": 1,
-   "note": "huenenberg.tlex.ch: index of 63 acts (63 in force); held 49; 1 in force and in scope not held yet, 13 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 7 held acts compared with the collection this check (every one within 7 days); 1 candidate acts read",
-   "outcome": "changed",
+   "gap": 2,
+   "note": "huenenberg.tlex.ch: index of 63 acts (63 in force); held 49; 0 in force and in scope not held yet, 13 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 7 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 24,
-   "runner": "lawwatch switzerland (d83546088b)",
+   "requests": 28,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "3-1"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "63 entries, 63 in force (huenenberg.tlex.ch)",
    "source": "lexwork-huenenberg-city",
-   "started": "2026-11-24T12:43:57Z",
+   "started": "2026-11-25T08:19:58Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -57,7 +55,7 @@
     "new": 0,
     "nothing_new": 0,
     "parts": [],
-    "pdf_only": 1,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
@@ -70,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 7,
-    "versions_checked": 15,
+    "versions_checked": 18,
     "versions_differ": 0
    }
   }

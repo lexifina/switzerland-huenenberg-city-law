@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Huenenberg: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:44 UTC, Huenenberg: Systematische Sammlung (huenenberg.tlex.ch): 24 Adressen gelesen; 1 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 1 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 08:20 UTC, Huenenberg: Systematische Sammlung (huenenberg.tlex.ch): 28 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 2 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Huenenberg: Systematische Sammlung (huenenberg.tlex.ch)](https://huenenberg.tlex.ch/) | `<act>/` | täglich | 2026-11-24 12:44 UTC | Änderungen gefunden | beobachtet |
+| [Huenenberg: Systematische Sammlung (huenenberg.tlex.ch)](https://huenenberg.tlex.ch/) | `<act>/` | täglich | 2026-11-25 08:20 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 08:19](checks/2026-11.md#ch-lexwork-huenenberg-city-20261125t081958z) | lexwork-huenenberg-city | 28 | 0 | 0 | 0 | 2 (0) | keine Änderung | — |
 | [2026-11-24 12:43](checks/2026-11.md#ch-lexwork-huenenberg-city-20261124t124357z) | lexwork-huenenberg-city | 24 | 1 | 0 | 0 | 1 (0) | Änderungen gefunden | — |
 
 ## Selbst prüfen
