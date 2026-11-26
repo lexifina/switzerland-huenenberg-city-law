@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:27:21Z",
+ "generated": "2026-11-26T07:18:42Z",
  "latest": {
   "lexwork-huenenberg-city|switzerland/zug/huenenberg/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 49,
     "source_in_scope": 49
    },
-   "check_id": "ch-lexwork-huenenberg-city-20261125T081958Z",
+   "check_id": "ch-lexwork-huenenberg-city-20261126T071153Z",
    "commits": null,
    "corpus": "switzerland/zug/huenenberg/acts",
    "error": null,
-   "finished": "2026-11-25T08:20:30Z",
+   "finished": "2026-11-26T07:12:17Z",
    "flags": [],
-   "gap": 2,
+   "gap": 1,
    "note": "huenenberg.tlex.ch: index of 63 acts (63 in force); held 49; 0 in force and in scope not held yet, 13 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 7 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 28,
+   "requests": 20,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "63 entries, 63 in force (huenenberg.tlex.ch)",
    "source": "lexwork-huenenberg-city",
-   "started": "2026-11-25T08:19:58Z",
+   "started": "2026-11-26T07:11:53Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 7,
-    "versions_checked": 18,
+    "versions_checked": 12,
     "versions_differ": 0
    }
   }
