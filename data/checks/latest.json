@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:12:49Z",
+ "generated": "2026-11-28T08:35:11Z",
  "latest": {
   "lexwork-huenenberg-city|switzerland/zug/huenenberg/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,12 +23,17 @@
     "repo": 49,
     "source_in_scope": 49
    },
-   "check_id": "ch-lexwork-huenenberg-city-20261127T070606Z",
+   "check_id": "ch-lexwork-huenenberg-city-20261128T082848Z",
    "commits": null,
    "corpus": "switzerland/zug/huenenberg/acts",
    "error": null,
-   "finished": "2026-11-27T07:06:27Z",
-   "flags": [],
+   "finished": "2026-11-28T08:29:11Z",
+   "flags": [
+    {
+     "detail": "1 of 12 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
    "gap": 1,
    "note": "huenenberg.tlex.ch: index of 63 acts (63 in force); held 49; 0 in force and in scope not held yet, 13 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 7 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
@@ -37,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 18,
+   "requests": 20,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +52,7 @@
    },
    "snapshot": "63 entries, 63 in force (huenenberg.tlex.ch)",
    "source": "lexwork-huenenberg-city",
-   "started": "2026-11-27T07:06:06Z",
+   "started": "2026-11-28T08:28:48Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -61,15 +66,17 @@
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [],
+    "examples": [
+     "6.6-1.1 (6-6-1-1): 2026-01-01"
+    ],
     "held": 49,
     "method": "each act compared this check (7 of 49: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from huenenberg.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
-    "ok": true,
+    "ok": false,
     "swept": 7,
-    "versions_checked": 10,
-    "versions_differ": 0
+    "versions_checked": 12,
+    "versions_differ": 1
    }
   }
  },

@@ -6,18 +6,21 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Huenenberg only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 07:06 UTC, Huenenberg: systematic collection (huenenberg.tlex.ch): 18 addresses read; 0 added, 0 changed, 0 removed; no change; 1 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 08:29 UTC, Huenenberg: systematic collection (huenenberg.tlex.ch): 20 addresses read; 0 added, 0 changed, 0 removed; no change; 1 not published, 0 of them with no reason. Flags: `verify-differ`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Huenenberg: systematic collection (huenenberg.tlex.ch)](https://huenenberg.tlex.ch/) | `<act>/` | daily | 2026-11-27 07:06 UTC | no change | watched |
+| [Huenenberg: systematic collection (huenenberg.tlex.ch)](https://huenenberg.tlex.ch/) | `<act>/` | daily | 2026-11-28 08:29 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:28](checks/2026-11.md#ch-lexwork-huenenberg-city-20261128t082848z) | lexwork-huenenberg-city | 20 | 0 | 0 | 0 | 1 (0) | no change `verify-differ` | — |
+| [2026-11-28 07:10](checks/2026-11.md#ch-lexwork-huenenberg-city-20261128t071019z) | lexwork-huenenberg-city | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 06:41](checks/2026-11.md#ch-lexwork-huenenberg-city-20261128t064101z) | lexwork-huenenberg-city | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-27 07:06](checks/2026-11.md#ch-lexwork-huenenberg-city-20261127t070606z) | lexwork-huenenberg-city | 18 | 0 | 0 | 0 | 1 (0) | no change | — |
 | [2026-11-26 07:11](checks/2026-11.md#ch-lexwork-huenenberg-city-20261126t071153z) | lexwork-huenenberg-city | 20 | 0 | 0 | 0 | 1 (0) | no change | — |
 | [2026-11-25 08:19](checks/2026-11.md#ch-lexwork-huenenberg-city-20261125t081958z) | lexwork-huenenberg-city | 28 | 0 | 0 | 0 | 2 (0) | no change | — |
